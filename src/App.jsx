@@ -1,4 +1,4 @@
-import WheatherApp from './components/WheatherApp'
+import WheatherApp from './components/Wheather'
 
 const App = () => {
   return (
